@@ -23,3 +23,5 @@ En la segunda parte debemos generar los estilos necesarios para que la página c
 ### Créditos
 - [Frontend Mentor](https://www.frontendmentor.io) challenges help you improve your coding skills by building realistic projects.
 
+## Mi recetario
+https://dsaw-2026-1.github.io/html-101-juanmora-ux/
