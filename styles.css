@@ -1,0 +1,64 @@
+/* Configuración del fondo y la fuente principal */
+body {
+    font-family: 'Outfit', sans-serif;
+    font-size: 16px;
+    margin: 0;
+    padding: 20px;
+    background-color: hsl(30, 54%, 90%); /* Color Eggshell de la guía */
+}
+
+/* Título principal con la fuente especial */
+h1 {
+    font-family: 'Young Serif', serif;
+    color: hsl(24, 5%, 18%); /* Dark Charcoal */
+    text-align: center;
+}
+
+/* Imagen centrada (dentro del header) */
+header img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+/* Subtítulos de cada sección */
+h2 {
+    font-family: 'Young Serif', serif;
+    color: hsl(14, 45%, 36%); /* Nutmeg */
+    margin-top: 0;
+}
+
+/* Estilo de los bloques (parecido a tu ejemplo de CV) */
+section {
+    margin: 20px auto;
+    padding: 20px;
+    max-width: 600px;
+    background-color: hsl(0, 0%, 100%); /* White */
+    border: 1px solid hsl(30, 18%, 87%); /* Light Grey */
+    border-radius: 10px;
+}
+
+/* Estilo específico para la sección de tiempos (usando ID) */
+#tiempos {
+    margin: 20px auto;
+    padding: 20px;
+    max-width: 600px;
+    background-color: hsl(330, 100%, 98%); /* Rose White */
+    border: 1px solid hsl(332, 51%, 32%); /* Dark Raspberry */
+}
+
+#tiempos h2 {
+    margin: 20px auto;
+    padding: 20px;
+    max-width: 600px;
+    color: hsl(332, 51%, 32%); /* Dark Raspberry */
+}
+
+/* Listas para que se vean ordenadas */
+ul {
+    margin: 20px auto;
+    padding: 20px;
+    max-width: 600px;
+    color: hsl(30, 10%, 34%); /* Wenge Brown */
+    line-height: 1.5;
+}
